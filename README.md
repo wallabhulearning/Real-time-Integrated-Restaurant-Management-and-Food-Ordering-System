@@ -17,8 +17,14 @@ You can Order Your favourite Super Tasty Food at your place or book
 ![image](https://github.com/wallabhulearning/Final-Year-college-project-23/assets/81809987/a0956d10-db59-40dd-bbcd-f90c96c2d520)
 
 ![image](https://github.com/wallabhulearning/Final-Year-college-project-23/assets/81809987/43584a71-fa05-4bed-8f02-5db513a33ad0)
+
+
 ![image](https://github.com/wallabhulearning/Final-Year-college-project-23/assets/81809987/e69f2f14-26d4-4369-bc07-894af88c1f30)
+
+
 ![image](https://github.com/wallabhulearning/Final-Year-college-project-23/assets/81809987/6ffd5804-4d49-44ca-b7fb-f2724bd1b6eb)
+
+
 ![image](https://github.com/wallabhulearning/Final-Year-college-project-23/assets/81809987/feb4792a-01d9-46bb-abb3-fa114cad2c09)
 
 And more updates, integrations coming soon.
